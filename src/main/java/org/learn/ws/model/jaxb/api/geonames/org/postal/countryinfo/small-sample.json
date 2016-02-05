@@ -1,0 +1,44 @@
+{"geonames": [
+  {
+    "numPostalCodes": 1,
+    "maxPostalCode": "96799",
+    "countryCode": "AS",
+    "minPostalCode": "96799",
+    "countryName": "American Samoa"
+  },
+  {
+    "numPostalCodes": 19055,
+    "maxPostalCode": "9992",
+    "countryCode": "AT",
+    "minPostalCode": "1010",
+    "countryName": "Austria"
+  },
+  {
+    "numPostalCodes": 144513,
+    "maxPostalCode": "99998",
+    "countryCode": "MX",
+    "minPostalCode": "01000",
+    "countryName": "Mexico"
+  },
+  {
+    "numPostalCodes": 5314,
+    "maxPostalCode": "9999",
+    "countryCode": "NL",
+    "minPostalCode": "1000",
+    "countryName": "Netherlands"
+  },
+  {
+    "numPostalCodes": 4735,
+    "maxPostalCode": "9991",
+    "countryCode": "NO",
+    "minPostalCode": "0001",
+    "countryName": "Norway"
+  },
+  {
+    "numPostalCodes": 43623,
+    "maxPostalCode": "99950",
+    "countryCode": "US",
+    "minPostalCode": "00210",
+    "countryName": "United States"
+  }
+]}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geonames>
+    <country>
+        <countryCode>AR</countryCode>
+        <countryName>Argentina</countryName>
+        <numPostalCodes>20260</numPostalCodes>
+        <minPostalCode>1601</minPostalCode>
+        <maxPostalCode>9431</maxPostalCode>
+    </country>
+    <country>
+        <countryCode>BE</countryCode>
+        <countryName>Belgium</countryName>
+        <numPostalCodes>3386</numPostalCodes>
+        <minPostalCode>1000</minPostalCode>
+        <maxPostalCode>9992</maxPostalCode>
+    </country>
+    <country>
+        <countryCode>CZ</countryCode>
+        <countryName>Czech Republic</countryName>
+        <numPostalCodes>15507</numPostalCodes>
+        <minPostalCode>100 00</minPostalCode>
+        <maxPostalCode>798 62</maxPostalCode>
+    </country>
+    <country>
+        <countryCode>IT</countryCode>
+        <countryName>Italy</countryName>
+        <numPostalCodes>17980</numPostalCodes>
+        <minPostalCode>00010</minPostalCode>
+        <maxPostalCode>98168</maxPostalCode>
+    </country>
+    <country>
+        <countryCode>MC</countryCode>
+        <countryName>Monaco</countryName>
+        <numPostalCodes>29</numPostalCodes>
+        <minPostalCode>98000</minPostalCode>
+        <maxPostalCode>98000</maxPostalCode>
+    </country>
+    <country>
+        <countryCode>SE</countryCode>
+        <countryName>Sweden</countryName>
+        <numPostalCodes>16079</numPostalCodes>
+        <minPostalCode>100 05</minPostalCode>
+        <maxPostalCode>984 99</maxPostalCode>
+    </country>
+</geonames>

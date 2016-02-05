@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="geonames" type="geonamesType"/>
+  <xs:complexType name="countryType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="countryCode"/>
+      <xs:element type="xs:string" name="countryName"/>
+      <xs:element type="xs:string" name="numPostalCodes"/>
+      <xs:element type="xs:string" name="minPostalCode"/>
+      <xs:element type="xs:string" name="maxPostalCode"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="geonamesType">
+    <xs:sequence>
+      <xs:element type="countryType" name="country" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
