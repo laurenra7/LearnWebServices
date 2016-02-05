@@ -1,0 +1,32 @@
+2016-02-05 16:06:12 DEBUG EntityMappingTester:94 - reader for media type application/xml: com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$App@7305830a
+2016-02-05 16:06:12 INFO  JsonGeonamesPostalCodeCountryInfo:155 - shouldMapFileToPartialGeonamesType result = 
+GeonamesType{
+    CountryType{countryCode='AR', countryName='Argentina', numPostalCodes='20260', minPostalCode='1601', maxPostalCode='9431'}
+    CountryType{countryCode='BE', countryName='Belgium', numPostalCodes='3386', minPostalCode='1000', maxPostalCode='9992'}
+    CountryType{countryCode='CZ', countryName='Czech Republic', numPostalCodes='15507', minPostalCode='100 00', maxPostalCode='798 62'}
+    CountryType{countryCode='IT', countryName='Italy', numPostalCodes='17980', minPostalCode='00010', maxPostalCode='98168'}
+    CountryType{countryCode='MC', countryName='Monaco', numPostalCodes='29', minPostalCode='98000', maxPostalCode='98000'}
+    CountryType{countryCode='SE', countryName='Sweden', numPostalCodes='16079', minPostalCode='100 05', maxPostalCode='984 99'}
+}
+2016-02-05 16:06:12 INFO  JsonGeonamesPostalCodeCountryInfo:159 -   countryName: Argentina
+2016-02-05 16:06:12 INFO  JsonGeonamesPostalCodeCountryInfo:159 -   countryName: Belgium
+2016-02-05 16:06:12 INFO  JsonGeonamesPostalCodeCountryInfo:159 -   countryName: Czech Republic
+2016-02-05 16:06:12 INFO  JsonGeonamesPostalCodeCountryInfo:159 -   countryName: Italy
+2016-02-05 16:06:12 INFO  JsonGeonamesPostalCodeCountryInfo:159 -   countryName: Monaco
+2016-02-05 16:06:12 INFO  JsonGeonamesPostalCodeCountryInfo:159 -   countryName: Sweden
+2016-02-05 16:09:34 DEBUG EntityMappingTester:94 - reader for media type application/xml: com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$App@6ede4084
+2016-02-05 16:09:34 INFO  JsonGeonamesPostalCodeCountryInfo:156 - shouldMapFileToPartialGeonamesType result = 
+GeonamesType{
+    CountryType{, countryName='Argentina', numPostalCodes='20260'}
+    CountryType{, countryName='Belgium', numPostalCodes='3386'}
+    CountryType{, countryName='Czech Republic', numPostalCodes='15507'}
+    CountryType{, countryName='Italy', numPostalCodes='17980'}
+    CountryType{, countryName='Monaco', numPostalCodes='29'}
+    CountryType{, countryName='Sweden', numPostalCodes='16079'}
+}
+2016-02-05 16:09:34 INFO  JsonGeonamesPostalCodeCountryInfo:160 -   countryName: Argentina
+2016-02-05 16:09:34 INFO  JsonGeonamesPostalCodeCountryInfo:160 -   countryName: Belgium
+2016-02-05 16:09:34 INFO  JsonGeonamesPostalCodeCountryInfo:160 -   countryName: Czech Republic
+2016-02-05 16:09:34 INFO  JsonGeonamesPostalCodeCountryInfo:160 -   countryName: Italy
+2016-02-05 16:09:34 INFO  JsonGeonamesPostalCodeCountryInfo:160 -   countryName: Monaco
+2016-02-05 16:09:34 INFO  JsonGeonamesPostalCodeCountryInfo:160 -   countryName: Sweden

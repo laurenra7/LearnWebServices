@@ -110,8 +110,9 @@ public class EntityMappingTester {
         }
         catch (IOException e) {
             LOG.error("Exception reported: " + e.getMessage());
-            LOG.error("Trace: " + e.getStackTrace().toString());
-//            e.printStackTrace();
+            if(LOG.isDebugEnabled()) {
+                LOG.error("stack trace: ", e);
+            }
         }
         return null;
     }
