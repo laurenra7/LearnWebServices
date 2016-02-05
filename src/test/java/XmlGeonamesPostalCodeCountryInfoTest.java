@@ -92,6 +92,8 @@ public class XmlGeonamesPostalCodeCountryInfoTest {
      * purposely includes only some of the properties.  JAXB should
      * automatically ignore fields that don't correspond to properties
      * in the class definition.
+     *
+     * (There should be no need to change annotations)
      */
     @Ignore
     @Test
